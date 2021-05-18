@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Mohammad-Shawer-Khandariya
+Hi 👋 
+- I’m @Mohammad-Shawer-Khandariya
 - 👀 I’m interested in Web Development, AI and ML.
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Web Development Project.
